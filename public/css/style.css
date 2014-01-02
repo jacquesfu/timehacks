@@ -298,7 +298,7 @@ input[type=text],
 }
 
 .header-text li, .header-text p{
-	color: #A2A2A2;
+	color: #CCCCCC;
 }
 	
 	.header-text li {
@@ -332,6 +332,7 @@ input[type=text],
 	}
 
 .header-optin-text {
+	color: #CCCCCC;
 	padding:10px 30px;
 }
 
